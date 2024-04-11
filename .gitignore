@@ -1,0 +1,12 @@
+# Apple Stuff
+.DS_Store
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Setup environment variable script
+set_vars.sh
